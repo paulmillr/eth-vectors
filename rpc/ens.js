@@ -1,0 +1,10 @@
+export default {
+  '{"url":"https://NODE_URL/","opt":{"method":"POST","headers":{"Content-Type":"application/json"},"body":"{\\"jsonrpc\\":\\"2.0\\",\\"id\\":0,\\"method\\":\\"eth_call\\",\\"params\\":[{\\"to\\":\\"0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e\\",\\"data\\":\\"0x0178b8bfee6c4522aab0003e8d14cd40a6af439055fd2577951148c14b6cea9a53475835\\"},\\"latest\\"]}"}}':
+    '{"jsonrpc":"2.0","id":0,"result":"0x0000000000000000000000004976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41"}',
+  '{"url":"https://NODE_URL/","opt":{"method":"POST","headers":{"Content-Type":"application/json"},"body":"{\\"jsonrpc\\":\\"2.0\\",\\"id\\":0,\\"method\\":\\"eth_call\\",\\"params\\":[{\\"to\\":\\"0x4976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41\\",\\"data\\":\\"0x3b3b57deee6c4522aab0003e8d14cd40a6af439055fd2577951148c14b6cea9a53475835\\"},\\"latest\\"]}"}}':
+    '{"jsonrpc":"2.0","id":0,"result":"0x000000000000000000000000d8da6bf26964af9d7eed9e03e53415d37aa96045"}',
+  '{"url":"https://NODE_URL/","opt":{"method":"POST","headers":{"Content-Type":"application/json"},"body":"{\\"jsonrpc\\":\\"2.0\\",\\"id\\":0,\\"method\\":\\"eth_call\\",\\"params\\":[{\\"to\\":\\"0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e\\",\\"data\\":\\"0x0178b8bf7aef81fbd30c83431369026d62ee533af8b69f246b63d75b40fe223346e6fa9a\\"},\\"latest\\"]}"}}':
+    '{"jsonrpc":"2.0","id":0,"result":"0x0000000000000000000000005fbb459c49bb06083c33109fa4f14810ec2cf358"}',
+  '{"url":"https://NODE_URL/","opt":{"method":"POST","headers":{"Content-Type":"application/json"},"body":"{\\"jsonrpc\\":\\"2.0\\",\\"id\\":0,\\"method\\":\\"eth_call\\",\\"params\\":[{\\"to\\":\\"0x5fbb459c49bb06083c33109fa4f14810ec2cf358\\",\\"data\\":\\"0x691f34317aef81fbd30c83431369026d62ee533af8b69f246b63d75b40fe223346e6fa9a\\"},\\"latest\\"]}"}}':
+    '{"jsonrpc":"2.0","id":0,"result":"0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000b766974616c696b2e657468000000000000000000000000000000000000000000"}',
+};
