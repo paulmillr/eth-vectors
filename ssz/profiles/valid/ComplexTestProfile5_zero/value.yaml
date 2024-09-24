@@ -1,0 +1,9 @@
+E: {A: 0, B: null, C: null}
+F:
+- {A: null, B: 0, C: 0}
+- {A: null, B: 0, C: 0}
+- {A: null, B: null, C: 0}
+- {A: null, B: null, C: null}
+G:
+- {A: null, B: null, C: null}
+- {A: 0, B: null, C: 0}

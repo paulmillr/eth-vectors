@@ -1,0 +1,5 @@
+deposits: null
+withdrawals: null
+consolidations:
+- {source_address: '0xa3dcd8b0e94feaab826ed6b866853b816cc94a83', source_pubkey: '0xc3efef7c74ea52061993d296ff3dbecf08e888b870557a2ade4b26ad9281bf30b3df917f6c3d148588a950d61aaf9ca2',
+  target_pubkey: '0xb29d346dc6865d5d0739b36e503af6985928f7b4e88bb3b600ac81f6321c60bc879c0594a3784911686dd7fbda2acde5'}

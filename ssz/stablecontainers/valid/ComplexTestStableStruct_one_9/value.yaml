@@ -1,0 +1,15 @@
+A: null
+B: null
+C: 103
+D: '0x18'
+E: {A: 8446, B: null, C: 69}
+F:
+- {A: null, B: 14326514839390805728, C: null}
+- {A: null, B: 15521276518315357934, C: 1658363964}
+- {A: null, B: null, C: 3592494024}
+- {A: null, B: 13826507944386964909, C: null}
+G:
+- {A: null, B: null, C: null}
+- A: 49916
+  B: [18254]
+  C: null

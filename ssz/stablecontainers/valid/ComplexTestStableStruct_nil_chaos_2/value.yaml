@@ -1,0 +1,11 @@
+A: 42540
+B: null
+C: 206
+D: null
+E: null
+F: null
+G:
+- A: null
+  B: [47382]
+  C: null
+- {A: 0, B: null, C: 0}

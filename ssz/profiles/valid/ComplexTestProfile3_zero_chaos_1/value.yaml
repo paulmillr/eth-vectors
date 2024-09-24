@@ -1,0 +1,6 @@
+A: 12925
+C: 255
+E: {A: 0, B: null, C: 2}
+G:
+- {A: 0, B: null, C: 0}
+- {A: null, B: null, C: null}

@@ -1,0 +1,11 @@
+A: 0
+B: null
+C: null
+D: '0x00'
+E: {A: 0, B: null, C: null}
+F:
+- {A: null, B: 0, C: 0}
+- {A: 0, B: 0, C: null}
+- {A: null, B: 0, C: null}
+- {A: 0, B: 0, C: 0}
+G: null

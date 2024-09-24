@@ -1,0 +1,7 @@
+B: [0]
+D: '0x00'
+F:
+- {A: 0, B: null, C: 0}
+- {A: null, B: 0, C: null}
+- {A: 0, B: null, C: null}
+- {A: 0, B: null, C: null}

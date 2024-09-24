@@ -1,0 +1,11 @@
+A: 65535
+B: null
+C: null
+D: '0xe7'
+E: null
+F:
+- {A: null, B: 11258950867760852213, C: null}
+- {A: 88, B: null, C: null}
+- {A: 63, B: null, C: null}
+- {A: null, B: 18446744073709551615, C: 4294967295}
+G: null

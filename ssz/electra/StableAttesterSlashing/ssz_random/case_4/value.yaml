@@ -1,0 +1,10 @@
+attestation_1: {attesting_indices: null, data: null, signature: null}
+attestation_2:
+  attesting_indices: null
+  data:
+    slot: 3923508005679921936
+    index: 13757143094728464430
+    beacon_block_root: '0x031d1b9144476783ff9aa1d146948fd2dd6f83a560c5e141f43c447bdc16dd09'
+    source: {epoch: 15566719880167717122, root: '0xf0dce5d610ae502909c48d11c6eea6ce7de21aea8dd34a75d66f35bfecd8acff'}
+    target: {epoch: 5819838939201748573, root: '0x8ebc09155f52c7b35e795d26380dce5381db4f09ea9d769a70a2c3c77fa14e0e'}
+  signature: '0x919bc3fa44db1d9424ddcdd799efb0f89327def56ae4cb532c5421660b148833995208bf665342758499e1d4f97040bdca6b92cb8ef04ef7f1fbea373d1297097e9c8aba7f4f12896fe791646184679a55c110f07a1211a7246d09aced16d4ee'

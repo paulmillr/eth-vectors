@@ -1,0 +1,11 @@
+A: null
+B: null
+C: null
+D: '0xed'
+E: null
+F: null
+G:
+- A: null
+  B: [41324]
+  C: 106
+- {A: null, B: null, C: null}

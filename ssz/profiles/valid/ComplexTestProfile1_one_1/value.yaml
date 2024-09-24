@@ -1,0 +1,15 @@
+A: 56404
+B: [58150]
+C: 122
+D: '0x41'
+E: {A: null, B: null, C: 211}
+F:
+- {A: null, B: null, C: null}
+- {A: null, B: 2218351652802253862, C: 1338077923}
+- {A: 43, B: 14462999431848414856, C: null}
+- {A: 236, B: null, C: null}
+G:
+- A: null
+  B: [12439]
+  C: null
+- {A: null, B: null, C: 223}

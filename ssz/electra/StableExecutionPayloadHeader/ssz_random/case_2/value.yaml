@@ -1,0 +1,5 @@
+{parent_hash: null, fee_recipient: '0xbd6365fa029014a667156ba0703a92763c6462b9', state_root: '0xfbc4f15f1c35bee2d598a0bd655ddb199d1b58fe844f9bf69569acb166f4cd09',
+receipts_root: '0x35d728e09ec156f25d49d52f1ff5e0b172db5648947320ebc05343a79ab2efd6',
+logs_bloom: null, prev_randao: null, block_number: null, gas_limit: null, gas_used: null,
+timestamp: null, extra_data: null, base_fee_per_gas: null, block_hash: null, transactions_root: null,
+withdrawals_root: null, blob_gas_used: 10751703118943966117, excess_blob_gas: 16479136746699978760}

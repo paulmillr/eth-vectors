@@ -1,0 +1,5 @@
+A: 65535
+B: []
+C: 255
+D: '0xff'
+E: {A: null, B: null, C: null}

@@ -1,0 +1,9 @@
+A: 40130
+B: null
+C: null
+D: null
+E: null
+F: null
+G:
+- {A: 65535, B: null, C: 255}
+- {A: 65535, B: null, C: null}

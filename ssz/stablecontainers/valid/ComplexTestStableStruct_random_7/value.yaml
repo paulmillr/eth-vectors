@@ -1,0 +1,13 @@
+A: null
+B: null
+C: null
+D: null
+E: null
+F:
+- {A: null, B: null, C: null}
+- {A: null, B: 10683833579418090921, C: 1018777080}
+- {A: 116, B: null, C: null}
+- {A: null, B: null, C: null}
+G:
+- {A: null, B: null, C: 18}
+- {A: null, B: null, C: 105}

@@ -1,0 +1,14 @@
+A: null
+B: null
+C: 85
+D: '0xd8'
+E:
+  A: null
+  B: [63853]
+  C: null
+F:
+- {A: 76, B: 1540511391225453307, C: null}
+- {A: 223, B: null, C: 1001234160}
+- {A: null, B: 4570896588649222351, C: 3238556391}
+- {A: 59, B: null, C: null}
+G: null

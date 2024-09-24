@@ -1,0 +1,13 @@
+A: 65535
+B: [0]
+C: 22
+D: '0x00'
+E: {A: 32710, B: null, C: 0}
+F:
+- {A: null, B: null, C: null}
+- {A: null, B: 0, C: 670365359}
+- {A: 255, B: null, C: null}
+- {A: null, B: null, C: null}
+G:
+- {A: null, B: null, C: 191}
+- {A: null, B: null, C: null}

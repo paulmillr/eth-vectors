@@ -1,0 +1,8 @@
+A: 8987
+C: 97
+E: {A: null, B: null, C: 10}
+G:
+- {A: 21132, B: null, C: null}
+- A: 5461
+  B: [20784]
+  C: null
